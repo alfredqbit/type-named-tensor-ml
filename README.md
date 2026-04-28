@@ -1,4 +1,4 @@
-Typed Named Tensors — companion notebook
+## Typed Named Tensors — companion notebook
 Companion to: A Typed Named Tensor Notation for Deep Learning.
 
 This notebook is the executable counterpart to the paper. It walks through the type discipline of §2–§3 cell by cell, builds the framework as Python, and ends with the §3.4 worked example: the type checker rejecting the documented BatchNorm-information-leak bug from MoCo and accepting each of the three canonical fixes.
